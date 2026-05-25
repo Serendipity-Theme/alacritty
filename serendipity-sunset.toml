@@ -1,0 +1,33 @@
+# Serendipity Serendipity Sunset for Alacritty
+
+[colors.primary]
+background = "#202231"
+foreground = "#dee0ef"
+
+[colors.cursor]
+text = "#202231"
+cursor = "#d1918f"
+
+[colors.selection]
+text = "CellForeground"
+background = "#6B6D7C26"
+
+[colors.normal]
+black = "#363847"
+red = "#d1918f"
+green = "#709bbd"
+yellow = "#a392dc"
+blue = "#a0b6e8"
+magenta = "#aac9d4"
+cyan = "#d6b4b4"
+white = "#dee0ef"
+
+[colors.bright]
+black = "#6b6d7c"
+red = "#d1918f"
+green = "#709bbd"
+yellow = "#a392dc"
+blue = "#a0b6e8"
+magenta = "#aac9d4"
+cyan = "#d6b4b4"
+white = "#dee0ef"

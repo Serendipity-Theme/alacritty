@@ -1,0 +1,33 @@
+# Serendipity Serendipity Morning for Alacritty
+
+[colors.primary]
+background = "#f6f7fb"
+foreground = "#3f4363"
+
+[colors.cursor]
+text = "#f6f7fb"
+cursor = "#6d7296"
+
+[colors.selection]
+text = "CellForeground"
+background = "#5a567018"
+
+[colors.normal]
+black = "#ccd0dc"
+red = "#c25a4d"
+green = "#2f7aab"
+yellow = "#785fd0"
+blue = "#6288d8"
+magenta = "#629aa5"
+cyan = "#e58678"
+white = "#3f4363"
+
+[colors.bright]
+black = "#505575"
+red = "#c25a4d"
+green = "#2f7aab"
+yellow = "#785fd0"
+blue = "#6288d8"
+magenta = "#629aa5"
+cyan = "#e58678"
+white = "#3f4363"
